@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    background-color: lightblue;
+}
+
+.navbar1{
+    padding-left: 10px;
+    padding-top: 10px;
+    /* text-decoration: none; */
+    align-items: right;
+    display: flex;
+    color: black;
+    gap: 30px;
+}
+
+button{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 7px 30px 7px 30px;
+}
+
+.a1 {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-top: 10px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.desc1{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-top: 10px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 200px;
+}
+
+button:hover {
+    background-color: orange;
+}
+
+.a1 span{
+    color: darkorange;
+}
+
+.container table, .container th, .container td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.kontakp{
+    padding-left: 10px;
+}
